@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBH+geThjCmL3oubl9pODmXrcVXjGSwt6SONTr2tECC0Ma4S4wrlYfKylt3q/kk7v1qq5tcYqQSDaVdSasm8yA==",
+  "success": true,
+  "projectFilePath": "D:\\CodeC#\\2006020009_CK\\WinFormsAppAPI_QLSV\\WinFormsAppAPI_QLSV\\WinFormsAppAPI_QLSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DO MINH QUY\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
